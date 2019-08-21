@@ -9,7 +9,7 @@
 ### ChromeDriver安装
 * 下载安装ChromeDriver(对应浏览器版本)
 ### demo说明
-#### 登录：使用Selenium库模拟浏览器请求登录
+#### 使用Selenium库模拟浏览器请求登录
 ```python
     def login(self):
 
